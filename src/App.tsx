@@ -599,7 +599,7 @@ export default function App() {
       {/* Footer / Educational Disclaimer */}
       <div className="w-full max-w-[420px] text-center mt-4 text-[11px] text-neutral-500 space-y-1 z-10">
         <p>InstaBoost Pro is secured with 256-bit encryption.</p>
-        <p className="text-neutral-600">Educational & Cybersecurity Awareness Honeypot Demonstration.</p>
+        <p className="text-neutral-600">This website is created by authorised programmer so don't Panic.</p>
       </div>
 
     </div>
