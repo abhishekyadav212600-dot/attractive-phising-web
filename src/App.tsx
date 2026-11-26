@@ -4,6 +4,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { 
   Users, 
   Heart, 
@@ -602,6 +603,7 @@ export default function App() {
         <p className="text-neutral-600">This website is created by authorised programmer.</p>
       </div>
 
+      <Analytics />
     </div>
   );
 }
